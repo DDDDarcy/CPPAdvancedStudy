@@ -12,7 +12,7 @@
 ## MMU 映射到物理地址 不足 4k的都是 每个page都是4k
 
 
-![MMU](https://github.com/DDDDarcy/CPPAdvancedStudy/blob/main/mmu.jpg)
+![MMU](https://github.com/DDDDarcy/CPPAdvancedStudy/blob/main/lesson1/mmu.jpg)
 
 ##
 ##
@@ -21,4 +21,4 @@
 ## 如图
 ## 
 
-![MMU](https://github.com/DDDDarcy/CPPAdvancedStudy/blob/main/mmu2.jpg)
+![MMU](https://github.com/DDDDarcy/CPPAdvancedStudy/blob/main/lesson1/mmu2.jpg)
