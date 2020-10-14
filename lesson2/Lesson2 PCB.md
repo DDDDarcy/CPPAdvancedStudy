@@ -17,3 +17,5 @@
 #### 11、用户id 和 组 id.
 #### 12、会话（session）和进程组。
 #### 13、进程可以使用的资源上限（Resource Limit）
+
+####  ulimit -a 命令查看linux 运行资源上限限制的
