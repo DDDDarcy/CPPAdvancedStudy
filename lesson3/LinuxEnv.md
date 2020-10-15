@@ -30,6 +30,7 @@ environ是以NULL结尾的
 
 引入当前进程的环境变量表
 
+
 #include<stdio.h>
 
 extern char** environ;
