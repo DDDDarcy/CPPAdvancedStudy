@@ -20,18 +20,18 @@ if(pid ==-1){
 
   exit(1);
 
-}else if (pid==0){
+}else if (pid==0){    //子进程
 
   printf(" I m child,pid = %u, ppid = %u\n",getpid(),getppid());
 
-}else{
+}else{                //父进程
 
   printf("I m parent,pid = %u,ppid = %u\n",getpid(),getppid());
   sleep(1);
 
 }
 
-printf("YYYYYYYYYYY");
+printf("YYYYYYYYYYY");      //父子进程都会执行这句，谁先谁后后边再讨论
 
 }
 ```
